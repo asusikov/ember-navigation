@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "ember-navigation:open-component"
+    "atom-workspace": "ember-navigation:open-component",
+    "atom-workspace": "ember-navigation:switch-file"
   },
   "repository": "https://github.com/atom/ember-navigation",
   "license": "MIT",
