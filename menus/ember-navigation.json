@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Ember Navigation",
+          "submenu": [
+            {
+              "label": "Open Component",
+              "command": "ember-navigation:open-component"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

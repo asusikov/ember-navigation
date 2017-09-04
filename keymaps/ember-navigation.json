@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-ctrl-enter": "ember-navigation:open-component"
+  }
+}
