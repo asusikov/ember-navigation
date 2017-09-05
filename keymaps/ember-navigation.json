@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "cmd-ctrl-enter": "ember-navigation:open-component",
-    "cmd-ctrl-s": "ember-navigation:switch-file"
+    "cmd-ctrl-s": "ember-navigation:switch-file",
+    "cmd-ctrl-j": "ember-navigation:go-to-file"
   }
 }
