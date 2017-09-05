@@ -4,11 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "ember-navigation:open-component",
-    "atom-workspace": "ember-navigation:switch-file"
-  },
+  ],  
   "repository": "https://github.com/atom/ember-navigation",
   "license": "MIT",
   "engines": {
