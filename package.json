@@ -2,13 +2,13 @@
   "name": "ember-navigation",
   "main": "./lib/ember-navigation",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Makes navigation in Ember project easier.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/ember-navigation",
+  "repository": "https://github.com/asusikov/ember-navigation",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.19.0 <2.0.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0"
