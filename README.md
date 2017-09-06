@@ -13,7 +13,7 @@ It allows you to quickly jump to a component template from it's invocation in so
 
 Press `ctrl+cmd+s` to toggle between route/controller/template. Or press `ctrl+cmd+j` to open a list.
 
-### Toggle Component or Template
+### Toggle Between Component or Template
 
 Press `ctrl+cmd+s` to toggle between template/component. Or press `ctrl+cmd+j` to open a list.
 
