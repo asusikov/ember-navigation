@@ -2,13 +2,20 @@
 
 Makes navigation in Ember project easier.
 
-### Open Component
+### Go To Definition of Component
 
-Press `ctrl+cmd+enter` to open template of component when cursor over declaration in template.
+It allows you to quickly jump to a component template from it's invocation in some template.
 
-### Toggle Before Files
+1. Place a caret on a line with a component curve braces `{{`
+2. Press `ctrl+cmd+enter` to go to a template of this component
 
-Press `ctrl+cmd+s` to toggle before route/controller/template or template/component. Or press `ctrl+cmd+j` to open list.
+### Toggle Between Route, Controller or Template
+
+Press `ctrl+cmd+s` to toggle between route/controller/template. Or press `ctrl+cmd+j` to open a list.
+
+### Toggle Component or Template
+
+Press `ctrl+cmd+s` to toggle between template/component. Or press `ctrl+cmd+j` to open a list.
 
 ## Installation
 
