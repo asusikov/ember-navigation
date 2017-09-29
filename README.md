@@ -6,16 +6,16 @@ Makes navigation in Ember project easier.
 
 It allows you to quickly jump to a component template from it's invocation in some template.
 
-1. Place a caret on a line with a component curve braces `{{`
+1. Place a caret on a line with a component
 2. Press `ctrl+cmd+enter` to go to a template of this component
 
 ### Toggle Between Route, Controller or Template
 
 Press `ctrl+cmd+s` to toggle between route/controller/template. Or press `ctrl+cmd+j` to open a list.
 
-### Toggle Between Component or Template
+### Toggle Between Component, Template or Styles
 
-Press `ctrl+cmd+s` to toggle between template/component. Or press `ctrl+cmd+j` to open a list.
+Press `ctrl+cmd+s` to toggle between template/component/styles. Or press `ctrl+cmd+j` to open a list. The paths to styles are determined by [ember-component-css](https://github.com/ebryn/ember-component-css) package.
 
 ## Installation
 
