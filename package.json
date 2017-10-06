@@ -1,7 +1,7 @@
 {
   "name": "ember-navigation",
   "main": "./lib/ember-navigation",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Makes navigation in Ember project easier.",
   "keywords": [],
   "repository": "https://github.com/asusikov/ember-navigation",
